@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hongshun Wang @loserwang1024
-- 👀 I’m interested in Flink, Kafka, and etc
+- 👀 I’m interested in Flink, Flink CDC, Fluss, Kafka, and etc
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 loserwang1024@gmail.com
